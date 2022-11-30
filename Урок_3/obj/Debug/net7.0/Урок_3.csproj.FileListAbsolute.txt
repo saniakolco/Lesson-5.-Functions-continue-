@@ -1,0 +1,15 @@
+/Users/УЧЁБА/SEMINARR/Урок_3/bin/Debug/net7.0/Урок_3
+/Users/УЧЁБА/SEMINARR/Урок_3/bin/Debug/net7.0/Урок_3.deps.json
+/Users/УЧЁБА/SEMINARR/Урок_3/bin/Debug/net7.0/Урок_3.runtimeconfig.json
+/Users/УЧЁБА/SEMINARR/Урок_3/bin/Debug/net7.0/Урок_3.dll
+/Users/УЧЁБА/SEMINARR/Урок_3/bin/Debug/net7.0/Урок_3.pdb
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/Урок_3.csproj.AssemblyReference.cache
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/Урок_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/Урок_3.AssemblyInfoInputs.cache
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/Урок_3.AssemblyInfo.cs
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/Урок_3.csproj.CoreCompileInputs.cache
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/Урок_3.dll
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/refint/Урок_3.dll
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/Урок_3.pdb
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/Урок_3.genruntimeconfig.cache
+/Users/УЧЁБА/SEMINARR/Урок_3/obj/Debug/net7.0/ref/Урок_3.dll
